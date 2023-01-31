@@ -73,9 +73,24 @@ h2{
     box-shadow:2px 2px 4px #000;;
 }
 
-#am{
-    display: none;
+.am{
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: var(--primary);
+    opacity: 0.8;
+    width: 100px;
+    height: 80px;
+    color: white;
+    opacity: .8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    text-shadow: 2px 2px 4px #000;
+
 }
+
 
 
 
